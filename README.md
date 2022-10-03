@@ -1,3 +1,3 @@
 # enemars.github.io
-Enemars Blog \n
+Enemars Blog  
 [enemars.github.io](https://enemars.github.io)
